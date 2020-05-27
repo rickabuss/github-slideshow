@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+The cow jumped over the moon!
 Use the left arrow to go back!
